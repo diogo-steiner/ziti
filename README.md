@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/106714068/228991465-1ef22d0c-a6bc-4a09
 
 <br>
 
-> A Zite é uma rede social onde os usuários podem fazer postagens, comentar, curtir e seguir outros usuários.
+> A Ziti é uma rede social onde os usuários podem fazer postagens, comentar, curtir e seguir outros usuários.
 
 
 
